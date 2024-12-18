@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @jason
+- 👀 I’m engineering student interested in nature, science, art, music, architecture
+- 🌱 I’m currently learning calculus and rust system programming
+- 💞️ I’m looking to collaborate on linux projects
+- 📫 How to reach me s365855@students.cdu.edu.au
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Lifelong student - always learning something new :)
+
